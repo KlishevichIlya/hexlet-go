@@ -1,3 +1,3 @@
 package greetings
 
-var greetings string = "Hello, Hexlet!!!"
+var greetings string = "Hexlet for Brave"
